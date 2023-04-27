@@ -9,7 +9,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@expo/webpack-config": "^18.0.1",
