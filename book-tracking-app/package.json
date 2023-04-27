@@ -1,6 +1,6 @@
 {
   "name": "book-tracking-app",
-  "homepage": "http://sydsedloff.github.io/book-tracker",
+  "homepage": "http://sydsedloff.github.io/book-tracking-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
